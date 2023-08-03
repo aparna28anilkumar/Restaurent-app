@@ -1,0 +1,46 @@
+                                               RESTAURENT APP
+
+      1.CREATE A NEW APPLICATION:npx create-react-app restaurant-listing-app
+      2 cd restaurant-listing-app
+      3.code .
+      4.run the application:npm start
+      5.Clean the code
+      6.Create a theam code
+      7.choose a theam using bootstrap - http://bootswatch.com/ and import it into the index.js   
+      7copy and paste-bootstarp,fontawesome and font 
+      8.component creation-
+         Header
+           Header.js
+           Header.css  
+
+         Footer                                    
+            Footer.js
+            Footer.css
+
+            instal Footer
+            npm i mdb-react-ui-kit
+
+        11.Api fetching - axios
+
+        What is Axios?
+Axios is a promise-based HTTP Client for node.js and the browser. It is isomorphic (= it can run in the browser and nodejs with the same codebase). On the server-side it uses the native node.js http module, while on the client (browser) it uses XMLHttpRequests.
+
+Features
+Make XMLHttpRequests from the browser
+Make http requests from node.js
+Supports the Promise API
+Intercept request and response
+Transform request and response data
+Cancel requests
+
+install
+npm i axios
+
+->Path Setup
+   ->React Router dom - uded to setup app routing
+   ->Router ->To hold more than one Route (used to hold multiple component)
+   ->Router -> uded to setup a component Path
+
+useParams()->The useParams hook returns an object of key/value pairs of the dynamic params from the current URL that were matched by the <Route path>. Child routes inherit all params from their parent routes.
+
+   

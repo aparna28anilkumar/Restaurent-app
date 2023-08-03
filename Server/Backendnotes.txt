@@ -1,0 +1,7 @@
+1.create a folder in restaurent-listing-app folder
+2.creating a package.json file - npm init -y
+3.create a json server- npm i json-server
+4.to connect different port-npm i cores
+5.create a .git ignore file and node_modules in it
+7.index.json
+
